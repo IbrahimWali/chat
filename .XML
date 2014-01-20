@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+  <ModulePrefs title="Chat">
+    <Require feature="rpc"/>
+    <Require feature="views"/>
+  </ModulePrefs>
+  <Content type="html">
+    <![CDATA[
+   <div style="height:400px;"><iframe style='overflow:hidden;width:100%;height:100%;' frameborder='0' border='0' src="http://chat.zoho.com/shout.sas?k=%7B%22g%22%3A%22Anonymous%22%2C%22c%22%3A%22c35da9cfb45bf52a1830e6bbcee8d6fc60320fd262b63961%22%2C%22o%22%3A%22d637848e2e300f815547739b0c0e4f1d%22%7D&chaturl=Chat&V=000000-70a9e1-eff4f9-70a9e1-Chat"></iframe></div>
+    ]]>
+  </Content>
+</Module>
